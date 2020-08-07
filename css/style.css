@@ -189,6 +189,11 @@ body {
   }
   .header .main-nav {
     margin-bottom: 20px;
+  .header .main-nav .list {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
   }
   .video {
     width: 100%;
