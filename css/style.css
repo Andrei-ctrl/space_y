@@ -182,7 +182,6 @@ body {
   .header {
     flex-direction: column;
     align-items: center;
-    justify-content: center;
   }
   .header .logo {
     margin-bottom: 20px;
@@ -190,7 +189,7 @@ body {
   .header .main-nav {
     margin-bottom: 20px;
   }
-  .header .main-nav .list {
+  .main-nav .list {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
