@@ -182,6 +182,7 @@ body {
   .header {
     flex-direction: column;
     align-items: center;
+    justify-content: center;
   }
   .header .logo {
     margin-bottom: 20px;
